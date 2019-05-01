@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿Series,Beer Name,Beer Type,Description,ABV
+Series,Beer Name,Beer Type,Description,ABV
 0,Green IPA,Pale Ale,NE-style IPA,6.7
 1,Blue Double IPA,Pale Ale,More DPS! MOAR HOPS!,8.1
 2,Red Lager,Lager,A fine Irish lager,4.5
@@ -10,16 +9,3 @@
 7,Black Porter,Stout,Drink before drinking beer,4.1
 8,Violet Bock,Ale,It will get your goat,6.4
 9,Golden Steam,Lager,Californian favorite,4.8
-=======
-﻿Series,Beer Name,Beer Type,Description,ABV
-0,Green IPA,Pale Ale,NE-style IPA,6.7
-1,Blue Double IPA,Pale Ale,More DPS! MOAR HOPS!,8.1
-2,Red Lager,Lager,A fine Irish lager,4.5
-3,Pink Lager Lite,Lager,A wee bit less,4.1
-4,Yellow Whitbier,Wheat Beer,Great for mowing the lawn,3.8
-5,White Pilsner,Lager,Blue-collar beer,4.6
-6,Brown Ale,Ale,Goes well with beef,5.7
-7,Black Porter,Stout,Drink before drinking beer,4.1
-8,Violet Bock,Ale,It will get your goat,6.4
-9,Golden Steam,Lager,Californian favorite,4.8
->>>>>>> origin
