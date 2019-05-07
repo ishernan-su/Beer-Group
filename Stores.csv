@@ -1,4 +1,4 @@
-Series,Store Name,Address,Lat,Long,Last Stocked,Beer 0,Beer 1 ,Beer 2,Beer 3,Beer 4,Beer 5,Beer 6,Beer 7,Beer 8,Beer 9
+Series,Store Name,Address,Lat,Long,Last Stocked,Beer 0,Beer 1,Beer 2,Beer 3,Beer 4,Beer 5,Beer 6,Beer 7,Beer 8,Beer 9
 0,Wegman's,"3325 W Genesee St, Syracuse, NY 13219",43.047,-76.227,5/1/2019,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 1,Sunoco,"2101 W Genesee St, Syracuse, NY 13219",43.048,-76.197,5/3/2019,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 2,Sunoco,"1000 W Genesee St, Syracuse, NY 13204",43.054,-76.171,4/26/2019,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
